@@ -1,1 +1,1 @@
-# .github
+# Syntaxa.cc Scripts
